@@ -1,0 +1,15 @@
+C:\Users\Barcellos\escorpion\DesafioHotel\bin\Debug\net6.0\DesafioHotel.exe
+C:\Users\Barcellos\escorpion\DesafioHotel\bin\Debug\net6.0\DesafioHotel.deps.json
+C:\Users\Barcellos\escorpion\DesafioHotel\bin\Debug\net6.0\DesafioHotel.runtimeconfig.json
+C:\Users\Barcellos\escorpion\DesafioHotel\bin\Debug\net6.0\DesafioHotel.dll
+C:\Users\Barcellos\escorpion\DesafioHotel\bin\Debug\net6.0\DesafioHotel.pdb
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\DesafioHotel.csproj.AssemblyReference.cache
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\DesafioHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\DesafioHotel.AssemblyInfoInputs.cache
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\DesafioHotel.AssemblyInfo.cs
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\DesafioHotel.csproj.CoreCompileInputs.cache
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\DesafioHotel.dll
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\refint\DesafioHotel.dll
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\DesafioHotel.pdb
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\DesafioHotel.genruntimeconfig.cache
+C:\Users\Barcellos\escorpion\DesafioHotel\obj\Debug\net6.0\ref\DesafioHotel.dll
